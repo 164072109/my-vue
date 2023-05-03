@@ -12,6 +12,7 @@ module.exports = {
   },
   plugins: ['vue'],
   rules: {
-    'no-debugger': 'warn'
+    'no-debugger': 'warn',
+    'no-console': 'warn'
   }
 }
